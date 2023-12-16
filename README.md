@@ -13,10 +13,6 @@
 
 ### 🛠 Stacks
 ---
-
-<a href="https://github.com/explorersm11"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=explorersm11&layout=compact&theme=nord&hide_border=true" /></a>
-<br>
-<br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/jsp-66CDAA?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Servlet-556B2F?style=for-the-badge&logo=java&logoColor=white">
@@ -29,7 +25,11 @@
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<br>
+<br>
+<a href="https://github.com/explorersm11"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=explorersm11&layout=compact&theme=nord&hide_border=true" /></a>
 </div>
+<br>
 <br>
 <div align="center">
 
