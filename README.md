@@ -1,13 +1,8 @@
 # 윤수민 포트폴리오
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
+>성실하고 꾸준하게 실행하자!
 
 </br>
 
-
-## :pushpin: Intro
-(여기에 자기 소개)
-
-</br>
 
 ## :pushpin: Contact
 - 이메일: explorersm12@gmail.com
