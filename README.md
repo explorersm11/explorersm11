@@ -1,15 +1,39 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=FED95A&height=300&section=header&text=Let's%20do%20it%20faithfully%20and%20steadily&fontSize=45&animation=fadeIn&fontColor=444444&align=center)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fexplorersm11%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=venom&color=FED95A&height=300&section=header&text=Let's%20do%20it%20faithfully%20and%20steadily&fontSize=45&animation=fadeIn&fontColor=444444&align=center)
+
 </div>
+<div align="center">
+  
+### 책임감과 성실함을 빼면 껍데기뿐인, 백엔드 개발자를 지망하는 윤수민입니다!
 
-# 윤수민 포트폴리오
->성실하고 꾸준하게 실행하자!
+</div>
+<br>
+<div align="center">
 
-</br>
+### 🛠 Stack
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/jsp-66CDAA?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/MyBatis-111111?style=for-the-badge&logo=MyBatis&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+
+</div>
+<br>
+<div align="center">
+
+
+
+</div>
+<div align="center">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fexplorersm11%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 
 ## :pushpin: Contact
