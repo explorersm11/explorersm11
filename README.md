@@ -1,5 +1,3 @@
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=explorersm11&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=FED95A&height=300&section=header&text=Let's%20do%20it%20faithfully%20and%20steadily&fontSize=45&animation=fadeIn&fontColor=444444&align=center)
