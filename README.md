@@ -1,3 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=venom&color=FED95A&height=300&section=header&text=Let's%20do%20it%20faithfully%20and%20steadily&fontSize=45&animation=fadeIn&fontColor=444444&align=center)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fexplorersm11%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<div align="center">
+
+</div>
+
 # 윤수민 포트폴리오
 >성실하고 꾸준하게 실행하자!
 
