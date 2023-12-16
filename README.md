@@ -12,6 +12,7 @@
 <div align="center">
 
 ### 🛠 Stack
+---
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/jsp-66CDAA?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MyBatis-111111?style=for-the-badge&logo=MyBatis&logoColor=white">
@@ -26,7 +27,8 @@
 <br>
 <div align="center">
 
-
+### 👀 Contact
+- 이메일 : explorersm12@gmail.com
 
 </div>
 <div align="center">
