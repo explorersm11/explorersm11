@@ -27,7 +27,9 @@
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <br>
 <br>
-<a href="https://github.com/explorersm11"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=explorersm11&layout=compact&theme=nord&hide_border=true" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=explorersm11)](https://github.com/explorersm11/github-readme-stats)
+
 </div>
 <br>
 <br>
