@@ -35,6 +35,7 @@
 <hr>
 ▷ E-mail : explorersm12@gmail.com<br>
 ▷ Github : https://github.com/explorersm11
+▷ Blog : https://explorersm11.github.io
 
 </div>
 <br>
