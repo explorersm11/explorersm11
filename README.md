@@ -58,6 +58,6 @@
 > 기술 스택 ▼<br>
 > Java / JSP / Servlet / Python / Oracle / HTML / CSS / Javascript / JQuery
 >  
->[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/BB)
+>[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/BB/blob/master/README.md)
 
 </div>
